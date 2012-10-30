@@ -16,3 +16,6 @@ Current Build Notes:
 Proposed Features:
 - Ability to upload recipes to a central server
 - Ability to download recipes from a central server
+
+Files:
+Source code is in the folder src/com/cookbook.
