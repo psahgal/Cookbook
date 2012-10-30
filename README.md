@@ -18,4 +18,4 @@ Proposed Features:
 - Ability to download recipes from a central server
 
 Files:
-Source code is in the folder src/com/cookbook.
+- Source code is in the folder src/com/cookbook.
